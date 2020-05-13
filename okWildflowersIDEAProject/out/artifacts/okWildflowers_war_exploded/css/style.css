@@ -1,17 +1,22 @@
 html,body{
-    background-color: #f5f5f5;
+    background-color: #bcbcaa;
+}
+
+#title {
+    font-family: 'Satisfy', cursive;
 }
 
 body {
     padding-top: 50px;
+    font-family: 'Quicksand', sans-serif;
 }
 
 .container-fluid, .row{
-    background-color: #f5f5f5;
+    background-color: #bcbcaa;
 }
 .sidebar {
     padding: 12px;
-    background-color: #f5f5f5;
+    background-color: #bcbcaa;
 }
 
 form {
@@ -22,4 +27,35 @@ form {
     height:100%;
     position: absolute;
     right:0;
+}
+
+#habitat {
+    width: 100%;
+    height: 50px;
+    padding: 12px 20px;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    background-color: #f8f8f8;
+    resize: none;
+}
+.button_div {
+    padding-top: 10px;
+}
+
+#okregions {
+    padding-top: 0px;
+    padding-bottom: 10px;
+}
+#wildflowerCarousel{
+    padding-top: 10px;
+}
+#welcomeText {
+    padding-top: 10px;
+}
+
+.footer {
+    background: #bcbcaa;
+    color: #f8f9fa;
+    font-size: 1.5em;
 }
