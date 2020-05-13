@@ -7,9 +7,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bde491a7-def9-4ea2-a625-11f8a78a36e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/Laura.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/okWildflowers.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/okWildflowers.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/web/index.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.json" beforeDir="false" afterPath="$PROJECT_DIR$/app.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -255,7 +255,7 @@
       <workItem from="1588020929152" duration="637000" />
       <workItem from="1588563981460" duration="248000" />
       <workItem from="1588654131920" duration="14244000" />
-      <workItem from="1589343945732" duration="248000" />
+      <workItem from="1589343945732" duration="1607000" />
     </task>
     <servers />
   </component>
@@ -267,11 +267,11 @@
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
     <state x="639" y="178" key="#Project_Structure/0.0.2560.1384@0.0.2560.1384" timestamp="1587157235333" />
-    <state x="682" y="286" width="1169" height="831" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589004688243">
+    <state x="682" y="286" width="1169" height="831" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1589404001724">
       <screen x="0" y="0" width="2560" height="1384" />
     </state>
     <state x="361" y="75" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1586714156215" />
-    <state x="682" y="286" width="1169" height="831" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1384@0.0.2560.1384" timestamp="1589004688243" />
+    <state x="682" y="286" width="1169" height="831" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.2560.1384@0.0.2560.1384" timestamp="1589404001724" />
     <state x="499" y="195" key="#com.intellij.ide.util.PackageChooserDialog" timestamp="1585591791804">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
