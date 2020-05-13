@@ -6,6 +6,7 @@
   <title>Web Project</title>
 
   <!-- Custom styles -->
+    <!-- Custom styles -->
   <link rel="stylesheet" href="css/style.css">
 
   <!-- jQuery -->
